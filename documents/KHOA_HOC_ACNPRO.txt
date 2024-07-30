@@ -1,0 +1,81 @@
+KHÓA HỌC CỦA ACNPRO
+
+CÁC KHÓA HỌC CỦA ACNPRO: AI VÀ MÁY HỌC (MACHINE LEARNING), GỒM 2 KHÓA HỌC:
+    KHÓA HỌC 1: CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU (PROFICIENCY IN DATA ANALYSIS)
+    KHÓA HỌC 2: CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)
+
+MỤC TIÊU CÁC KHÓA HỌC ACNPRO CUSC:
+    Đào tạo học viên về các lĩnh vực Trí tuệ nhân tạo (AI), máy học (machine learning), phân tích dữ liệu (data analysis) từ cơ bản tới nâng cao.
+    Làm quen và lập trình với các ngôn ngữ mạnh mẽ về máy học như Python.
+
+KHÓA HỌC 1: CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU (PROFICIENCY IN DATA ANALYSIS)
+Đối tượng của KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU :
+    Học sinh, người đam mê công nghệ, yêu thích lập trình.
+    Sinh viên các trường Đại học hoặc Cao đẳng ở nhiều ngành nghề.
+    Cựu sinh viên Lập trình viên Quốc tế - Aptech.
+    Người đang hoạt động trong những lĩnh vực liên quan như Tài chính, Marketing, Quản lý sản phẩm, Quản lý bán hàng ...
+    Người đang làm việc trong lĩnh vực CNTT có nhu cầu cập nhật kiến thức về AI, Machine Learning, Big Data, Software Testing, ...
+Thời gian đào tạo KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU:
+    162 giờ.
+Chương trình đào tạo của KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU:
+    Data Analysis with MS Excel / Phân tích dữ liệu với MS Excel.
+    Data handling using T-SQL / Truy vấn dữ liệu với SQL.
+    Managing Large DataSets with MongoDB / Managing Large DataSets with MongoDB Quản lý dữ liệu lớn hiểu về chức năng, phạm trù cấu trúc dữ liệu, quản trị các cơ sở dữ liệu open-source với MongoDB.
+    Inferential Statistical Analysis / Kiến thức về phân tích thống kê, khai phá dữ liệu, phân tích dự đoán.
+    Data Science using R Programming / Phân tích dữ liệu khoa học sử dụng ngôn ngữ R.
+    Application Based Programming in Python / Phát triển ứng dụng dựa trên ngôn ngữ Python.
+    Project- Analyzing Data with R / Đồ án – Phân tích dữ liệu với ngôn ngữ R.
+Mục tiêu học tập của KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU: 
+    Làm việc và phân tích các bảng số liệu sử dụng MS Excel.
+    Học cách lập trình với Python – Ngôn ngữ lập trình rất phổ biến.
+    Học các nền tảng của mạng xã hội, công nghệ di động, thống kê, và điện toán đám mây cũng như hiểu được sự kết nối giữa chúng.
+    Học về MongoDB: các phạm trù, chức năng, mô hình cấu trúc và dữ liệu, cũng như cách cài đặt, hiệu chỉnh và quản trị các cơ sở dữ liệu open-source.
+    Nắm vững các kỹ thuật về khai thác dữ liệu, trình bày dữ liệu, phân tích dữ liệu cho dự báo, và phân tích dữ liệu mô phỏng, với ngôn ngữ lập trình R.
+    Phát triển một ứng dụng thực tế bằng Ngôn ngữ R.
+Bằng cấp của KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU:
+    Certificate of Proficiency in Data Analysis.
+Cơ hội nghề nghiệp của KHÓA HỌC CHUYÊN VIÊN VỀ PHÂN TÍCH DỮ LIỆU:
+    Sau khi hoàn thành xong Khóa học Chuyên viên về Phân tích dữ liệu (Proficiency in Data Analysis), sinh viên có thể làm việc với các vị trí:
+    DA (Data Analyst) – Nhà phân tích dữ liệu
+    BA (Business Analyst) – Nhà phân tích nghiệp vụ
+    Digital Marketer – Tiếp thị số
+    PM (Product Manager) – Nhà quản lí sản phẩm
+    Digital Marketer – Tiếp thị số
+
+KHÓA HỌC 2: CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)
+Đối tượng của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    Học sinh, người đam mê công nghệ, yêu thích lập trình.
+    Sinh viên các trường Đại học hoặc Cao đẳng ở nhiều ngành nghề.
+    Cựu sinh viên Lập trình viên Quốc tế - Aptech.
+    Người đang làm việc trong lĩnh vực CNTT có nhu cầu cập nhật kiến thức về Trí tuệ nhân tạo và Máy học.
+Điều kiện xét tuyển của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    Tốt nghiệp THPT (Ưu tiên cho hồ sơ nộp sớm).
+    Đã tham gia Khóa học Nền tảng về Khoa học Dữ liệu (Foundation In Data Science) hoặc có kiến thức về Lập trình Python, Lập trình R.
+Thời gian đào tạo của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    346 giờ.
+Chương trình đào tạo của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    Phần 1. Nền tảng về Khoa học dữ liệu (Foundation in Data Science) - Thời gian đào tạo của phần 1: 146 giờ.
+        Data Analysis with MS Excel / Phân tích dữ liệu với MS Excel.
+        Data handling using T-SQL / Truy vấn dữ liệu với SQL.
+        Managing Large DataSets with MongoDB / Quản lý dữ liệu lớn hiểu về chức năng, phạm trù cấu trúc dữ liệu, quản trị các cơ sở dữ liệu open soucre với MongoDB.
+        Inferential Statistical Analysis / Kiến thức về phân tích thống kê, khai phá dữ liệu, phân tích dự đoán .
+        Data Science using R Programming / Phân tích dữ liệu khoa học sử dụng ngôn ngữ R.
+        Application Based Programming in Python / Phát triển ứng dụng dựa trên ngôn ngữ Python.
+        Project- Analyzing Data with R / Đồ án – Phân tích dữ liệu với ngôn ngữ R.
+    Phần 2. Chuyên gia Trí tuệ nhân tạo và Máy học (Artificial Intelligence and Machine Learning) - Thời gian đào tạo của phần 2: 200 giờ.
+        AI Primer (ML, DL, Neural N/Ws)/ Nền tảng Trí tuệ nhân tạo.
+        Natural Language Processing Toolkit/ Công cụ xử lý ngôn ngữ tự nhiên.
+        Machine Learning / Học máy.
+        Deep Learning and Machine Learning APIs/ Học sâu và Học máy.
+        Project – Chatbot & Recommendation Engine/ Phát triển dự án chatbot và bộ máy bộ máy đề xuất.
+Mục tiêu học tập của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    Nắm vững các phạm trù và quy trình làm việc của AI, Machine Learning và Deep Learning, và các số liệu đo đạt hiệu suất.
+    Học các định nghĩa cơ bản của lập trình Python và hiểu sâu vào dữ liệu thống kê, machine learning, mô phỏng dữ liệu, web scraping, và xử lý ngôn ngữ tự nhiên.
+    Nắm vững các định nghĩa và kỹ thuật trong machine learning, bao gồm học có giám sát và không có giám sát, các khía cạnh toán học và thuật giải heuristic, và mô hình thực hành để phát triển các thuật toán.
+    Nắm vững các khái niệm deep learning và framework open-source trong TensorFlow, ứng dụng các thuật toán deep learning và xây dựng các mạng lưới thần kinh nhân tạo.
+    Phát triển một dự án chatbot và bộ máy đề xuất (recommendation engine).
+Bằng cấp của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC:
+    Professional Diploma in AI and Machine Learning.
+Cơ hội nghề nghiệp của KHÓA HỌC CHUYÊN GIA TRÍ TUỆ NHÂN TẠO VÀ MÁY HỌC (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING):
+    Chuyên gia gia trí tuệ nhân tạo.
+    Kỹ sư máy học.

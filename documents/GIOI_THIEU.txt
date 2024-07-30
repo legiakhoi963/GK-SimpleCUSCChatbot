@@ -1,0 +1,19 @@
+GIỚI THIỆU VỀ TRUNG TÂM CUSC
+
+Được thành lập từ 29/03/2001, với sứ mệnh “Giải quyết nhu cầu học CNTT chất lượng cao trong Khu vực Đồng bằng Sông Cửu Long”, Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) đảm nhận vai trò tiên phong trong các hoạt động đào tạo nguồn nhân lực CNTT chất lượng cao, sản xuất và gia công phần mềm, phát triển dữ liệu số, tư vấn các dự án CNTT.
+Ngay từ ngày đầu thành lập CUSC, Đại học Cần Thơ đã chủ động tìm kiếm và hợp tác với Tập đoàn Aptech Ấn Độ để đem về Chương trình đào tạo Lập trình viên Quốc tế ‒ APTECH và giao cho CUSC sứ mạng triển khai chương trình đào tạo tiên tiến này nhằm cung cấp các kiến thức và kỹ năng CNTT đặc thù chuẩn quốc tế, thúc đẩy sự phát triển chung của công nghiệp phần mềm khu vực và cả nước.
+
+Sau thành công từ năm 2001 với Chương trình đào tạo Lập trình viên Quốc tế ‒ APTECH, Đại học Cần Thơ tiếp tục hợp tác với Tập đoàn Aptech Ấn Độ triển khai trương trình đào tạo Mỹ thuật Đa phương tiện Quốc tế ‒ ARENA từ năm 2011, đánh dấu sự thâm nhập mạnh mẽ vào lĩnh vực đào tạo mỹ thuật dựa trên các phương tiện công nghệ hiện đại.
+
+Đặc biệt, cuối năm 2019, CUSC sẽ tiếp tục triển khai chương trình đào tạo mới - Chương trình đào tạo lập trình công nghệ 4.0 ‒ ACN Pro để phát triển nguồn nhân lực đáp ứng yêu cầu của Cách mạng Công nghiệp 4.0 và xu thế chuyển đổi số. 
+Với tổng thời lượng gần 700 giờ, chương trình đào tạo được chia ra làm 3 phân môn: Khoa học dữ liệu, Trí tuệ nhân tạo, Kiểm thử phần mềm. 
+Học viên sẽ được đào tạo phạm trù cũng như quy trình làm việc của Al, Machine Learning, lập trình với Python, Java, Cloud; biết ứng dụng, vận hành, phát triển dự án Big Data; lập trình Android; có thể thiết kế phát triển dự án chatbot và bộ máy đề xuất; cũng như khả năng thiết kế, phát triển dự án để thử nghiệm tự động hóa ... 
+
+Để nâng cao năng lực làm việc thực tế của học viên, Aptech áp dụng nhiều phương pháp đào tạo có tính ứng dụng cao là giáo trình điện tử, hệ thống bài thực hành ngay sau học lý thuyết, bài tập lớn, hệ thống đánh giá năng lực thực hành, thảo luận nhóm… Kết thúc chương trình, học viên nhận chứng chỉ quốc tế của Tập đoàn Aptech.
+Chứng chỉ này được công nhận tại 40 quốc gia.
+
+Hơn 19 năm hoạt động, CUSC đã trở thành một trong những đơn vị uy tín về đào tạo nguồn nhân lực CNTT và sản xuất phần mềm tại khu vực ĐBSCL. 
+
+CUSC đã giành được nhiều giải thưởng cao quý trong nhiều năm liền: 3 lần đạt giải Trí Tuệ Việt Nam ĐBSCL; 9 lần đạt giải thưởng Sao Khuê do Hiệp hội Phần mềm và Dịch vụ CNTT Việt Nam (VINASA) trao tặng và cũng là một trong những đơn vị giành được giải thưởng “Đơn vị Đào tạo CNTT xuất sắc” do Tập đoàn Aptech toàn cầu trao tặng; đạt 2 trong 5 “Super Star” của Đông Nam Á trong kỳ thi “XML Super Star for Asean 2009” do Tập đoàn IBM tổ chức; Giải nhất nghề “Công nghệ Web, thiết kế và phát triển trang Web” trong Kỳ thi tay nghề TP Cần Thơ năm 2019.
+
+Địa chỉ của CUSC: Khu 3 - Đại học Cần Thơ, số 01 - đường Lý Tự Trọng, Quận Ninh Kiều, Thành phố Cần Thơ.

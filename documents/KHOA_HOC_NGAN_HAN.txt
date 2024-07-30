@@ -1,0 +1,164 @@
+CÁC KHÓA HỌC NGẮN HẠN CỦA CUSC:
+    1/ KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END
+    2/ KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP - MODULE 1
+    3/ KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG
+    4/ KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO
+
+MỤC TIÊU CÁC KHÓA HỌC NGẮN HẠN CỦA CUSC:
+    Các khóa học ngắn hạn giúp người học muốn học nhanh, ít tốn thời gian vào nhiều thứ mà chỉ tập trung vào một lĩnh vực cụ thể.
+
+1/ KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END CỦA CUSC
+Ngày khai giảng KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    18/06/2024.
+Thời gian đăng ký KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    29/12/2023 - 18/06/2024.
+Giờ học KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Thứ 3, 5, 7  từ 19h30-21h30.
+Mục tiêu khóa học KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END: 
+    Sử dụng HTML5 để tạo một trang web tĩnh.
+    Sử dụng CSS3 để định dạng trang web.
+    Tích hợp JavaScript và JQuery để xây dựng web tương tác.
+    Thiết kế web tương thích đa thiết bị (Responsive Web Design).
+    Lập trình front-end với VueJS.
+Chứng nhận KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Học viên hoàn thành khóa học sẽ được cấp chứng nhận “Thiết kế web và lập trình Front-end” (Web Design and Front-end Programming).
+Điểm mạnh của KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Khóa học được xây dựng dựa trên nhu cầu thực tế của cơ quan/doanh nghiệp.
+    Chương trình đào tạo áp dụng công nghệ tiên tiến đang được triển khai tại các công ty phần mềm trong và ngoài nước.
+    Học viên được đào tạo theo hướng dự án. Học viên có thể xây dựng được dự án hoàn chỉnh sau khi kết thúc khóa học.
+    Tích lũy được kinh nghiệm làm dự án và có thể vận dụng ngay kiến thức đã học để xây dựng ứng dụng Web cho đơn vị.
+    Giảng viên có nhiều kinh nghiệm thực hiện các dự án phần mềm.
+    Số lượng sinh viên của lớp học được bố trí không nhiều hơn 24 học viên để đảm bảo phương pháp học tập tích cực.
+Thời gian đào tạo KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Thiết kế web và lập trình Front-end (42 giờ) .
+Điều kiện đăng ký KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Học viên có kiến thức căn bản về máy tính và Internet.
+    Nội dung chương trình KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END:
+    Thiết kế web và lập trình Front-end.
+    Giới thiệu dự án.
+    Cơ bản về HTML5.
+    Thiết kế biểu mẫu trong HTML5.
+    Định dạng trang web bằng CSS3.
+    Sử dụng JavaScript xây dựng web tương tác.
+    Thiết kế web tương thích đa thiết bị.
+    Thiết kế giao diện người dùng và trải nghiệm người dùng (User Interface and User Experiment).
+    Nền tảng VueJS.
+
+2/ KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP - MODULE 1
+Thời gian đào tạo KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    12/06/2024.
+Thời gian đăng ký KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    07/04/2023 - 12/06/2024.
+Giờ học: 
+    17h30-19h30, Thứ 2,4,6.
+Giới thiệu KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Khóa học Kiểm thử Phần mềm chuyên nghiệp (AGEST Certified Test Professional - ACTP) là chương trình giới thiệu trực quan về kiểm thử phần mềm gray box một cách có hệ thống.
+    Qua khóa học, học viên sẽ nắm bắt được những kỹ thuật và những suy luận được áp dụng trong việc phát triển phần mềm cho khách hàng hoặc cung cấp dịch vụ phát triển và kiểm thử phần mềm cho các công ty khác.
+    Khóa học nhằm mục đích phát triển những kỹ năng kiểm thử thực tế, bao gồm kiểm thử thủ công và kiểm thử tự động, được xây dựng dựa trên yếu tố thực tiễn trong hoạt động sản xuất và phát triển Phần mềm.
+Mục tiêu KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Học viên tham gia khóa học sẽ được thực tập trên dự án thực tế để rèn luyện sự năng động trong môi trường làm việc chuyên nghiệp.
+    Mỗi học viên đều được trang bị những kỹ năng cần thiết cho một Tester và những kỹ năng mềm (soft skills) thích hợp để có khả năng tiếp tục học hỏi, thích nghi nhanh và thực hành kiểm thử phần mềm trong công việc thực tế.
+Lợi ích khóa học KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP: 
+    Bạn là sinh viên không chuyên về lĩnh vực CNTT, nhưng có đam mê và mong muốn có 1 cơ hội trong ngành Công Nghệ Thông Tin, bạn có thể lựa chọn nghề Software Testing (Ngành Kiểm Thử Phần Mềm) để phát triển.
+    Đây được xem là một nghề hấp dẫn hiện nay với nhiều cơ hội thăng tiến trong lĩnh vực CNTT.
+    Bạn là sinh viên chuyên ngành về CNTT, thì những kỹ năng trong khóa học Kiểm thử Phần mềm chuyên nghiệp sẽ là lợi thế rất lớn trong sự nghiệp phát triển sản phẩm Phần mềm của bạn, nó giúp bạn kiểm soát được những sự cố trong quá trình sản xuất phần mềm và giúp sản phẩm phần mềm của bạn được hoàn thiện hơn.
+    Chương trình đào tạo được thiết kế riêng nhằm đưa các ứng viên tiềm năng tới cơ hội phát triển sự nghiệp trong ngành kiểm thử phần mềm tại Việt Nam.
+Bằng cấp KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Hoàn thành chương trình đào tạo, học viên được cấp chứng nhận “AGEST Certified Test Professional” do AGEST và CUSC cấp.
+Thời gian đào tạo KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    108 giờ
+Đặc điểm khóa học KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP: 
+    Môi trường học tập KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Phòng thực hành có đầy đủ thiết bị đáp ứng mục tiêu đào tạo.
+    Lớp học với số lượng tối đa 25 học viên giúp học viên giao tiếp với giáo viên được tốt hơn.
+    Sách/Giáo trình KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP: 
+    Giáo trình đào tạo kiểm thử được cập nhật thường xuyên dựa trên những công nghệ, phương pháp cải tiến, kỹ thuật mới nhất mà chúng tôi nhận được thông qua việc cộng tác với các tổ chức nghiên cứu và phát triển chất lượng phần mềm.
+    Chương trình này được thiết kế bởi AGEST, Nhật Bản, 1 công ty nổi tiếng trong việc đào tạo ngành kiểm thử phần mềm nhằm phục vụ cho nhiều tập đoàn trên toàn thế giới.
+    Giảng viên KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Giảng viên và chuyên viên giàu kinh nghiệm.
+    Giảng viên được đào tạo chuyên sâu và giàu kinh nghiệm với những dự án thực tế.
+Phương pháp KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    CUSC và AGEST phát triển khóa học kiểm thử phần mềm bằng cách kết hợp phương pháp thực hành với các bài giảng đã được nghiên cứu trong suốt nhiều năm.
+    Không chỉ hướng dẫn lý thuyết, CUSC còn tập trung vào các kỹ năng và các bài tập theo những dự án thực tế. Khóa học đào tạo những gì chúng tôi đang làm và cách thức làm như thế nào.
+    Cơ hội nghề nghiệp: Sau khi hoàn tất khóa học và với chứng chỉ ACTP, học viên có thể làm việc tại các công ty phần mềm chuyên nghiệp.
+Đối tượng KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP:
+    Sinh viên CNTT có mong muốn rèn luyện kỹ năng tự kiểm thử phần mềm trong quá trình phát triển sản phẩm.
+    Các bạn yêu thích lĩnh vực kiểm thử phần mềm và mong muốn phát triển sự nghiệp với kiểm thử phần mềm.
+Nội dung chương trình KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP: 
+    Module 1: Kiểm thử phần mềm cơ bản - Manual Testing (54 giờ)
+    Các quy trình phát triển phần mềm và việc kiểm thử phần mềm trong các quy trình đó. 
+    Các giai đoạn và các cột mốc quan trọng của việc kiểm thử trong một quy trình phát triển phần mềm.
+    Những khái niệm căn bản về QA (Quality Assurance), QC (Quality Control), kiểm thử phần mềm.
+    Những nhiệm vụ của nhóm kiểm thử phần mềm.
+    Giới thiệu các cách tiếp cận kiểm thử phần mềm: hộp đen, hộp xám và hộp trắng.
+    Giới thiệu yêu cầu kiểm thử (Test Requirement), bản mô tả và bản thiết kế.
+    Các phương pháp kiểm thử thông dụng, trường hợp kiểm thử (Test case).
+    Nắm kỹ thuật thiết kế kiểm thử (Test design).
+    Bug là gì? Cách tìm bug và báo cáo bug như thế nào?
+    Trang bị kỹ năng mềm mà một kiểm tử viên cần phải rèn luyện trong công việc kiểm thử phần mềm.
+
+3/ KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG
+Giới thiệu KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG:
+    Cung cấp kiến thức giúp học viên hiểu và áp dụng các nguyên lý cơ bản của mạng máy tính và hệ thống an ninh.
+    Học viên sẽ được giới thiệu với các khái niệm về phân loại mạng và mô hình mạng, cũng như những thiết bị và hệ thống cáp phổ biến.
+    Bên cạnh đó, khóa học tập trung vào việc trang bị kiến thức về hệ điều hành Windows 11 và hệ thống Windows Server 2019, phục vụ cho nhu cầu quản trị và bảo mật hệ thống mạng trong doanh nghiệp và cơ quan nhà nước.
+    Đặc biệt, chương trình An toàn, An ninh thông dụng giúp học viên hiểu và áp dụng các kỹ thuật phòng chống tấn công từ hacker, tạo nền tảng vững chắc cho việc xây dựng hệ thống mạng an toàn và hiệu quả.
+Mục tiêu khóa học KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG:
+    Có kiến thức cơ bản về hệ thống mạng máy tính.
+    Nắm được mô hình mạng và các giao thức cơ bản trong mạng.
+    Có kiến thức về địa chỉ IPv4, IPv6 và phương pháp phân hoạch địa chỉ IP.
+    Biết cách cấu hình trên một số thiết bị phần cứng: router, switch, modem – Access Point Wifi, Repeater, …
+    Biết cách thiết kế và cấu hình hệ thống mạng trên phần mềm mô phỏng.
+    Cung cấp cách cấu hình các chính sách bảo mật nâng cao, thiết lập các chính sách an toàn truy cập mạng trên hệ điều hành Windows 11.
+    Cung cấp cho học viên kiến thức về hệ thống Windows Server 2019. Từ đó giúp học viên quản trị hiệu quả hệ thống mạng và xây dựng cơ sở hạ tầng mạng cho doanh nghiệp và cơ quan nhà nước.
+    Cung cấp cho học viên kiến thức về những nguy cơ mất dữ liệu, mất thông tin, kiến thức về an toàn an ninh thông tin, cung cấp những giải pháp cụ thể trong việc bảo vệ an toàn  an ninh thông tin bao gồm thông tin cá nhân, email, điện thoại, mạng xã hội,...
+Đối tượng tham dự KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG:
+    Học viên có kiến thức về tin học.
+    Những người yêu thích công nghệ thông tin.
+Chứng nhận CỦA KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG:
+    Học viên sẽ được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp chứng nhận hoàn thành khóa học "Quản trị và an ninh mạng" sau khi hoàn thành khóa học.
+Thời lượng khóa học KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG:
+    56 giờ.
+
+4/ KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO
+Giới thiệu KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Cùng với sự phát triển của nền công nghiệp truyền thông quảng cáo, nhu cầu nhân lực ngành Thiết kế đồ họa cho quảng cáo ngày càng tăng bởi sự kết hợp độc đáo giữa ý tưởng sáng tạo với bố cục nội dung thông qua các kỹ thuật và công cụ đồ họa nhằm tạo hiệu ứng truyền thông mạnh mẽ và truyền tải thông điệp một cách hiệu quả nhất.
+Mục tiêu khóa học KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+Kỹ năng đạt được KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Thiết kế đồ họa các sản phẩm cho quảng cáo thông qua sử dụng các công cụ như Adobe Illustrator, Adobe Photoshop, Adobe Indesign.
+    Lập kế hoạch thiết kế đồ họa các sản phẩm cho quảng cáo theo yêu cầu cho doanh nghiệp, khách hàng.
+    Tư vấn thiết kế đồ họa cho sản phẩm cho thương hiệu của doanh nghiệp.
+Phương pháp đào tạo theo hướng dự án CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học.
+    Học viên sẽ hoàn thành đồ án Thiết kế đồ họa cho quảng cáo cuối khóa học.
+Chất lượng giảng dạy CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế.
+    Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao.
+Đối tượng tham dự CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Học viên đam mê thiết kế.
+    Người đang làm trong lĩnh vực thiết kế quảng cáo.
+Chứng nhận CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Học viên nhận được chứng nhận hoàn thành khóa học Thiết kế đồ họa cho quảng cáo do Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp.
+Thời lượng khóa học CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    56 giờ.
+Nội dung chương trình CỦA KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO:
+    Kiến thức căn bản:
+        Chọn font chữ và bố cục thiết kế.
+        Màu sắc cho logo và sản phẩm thiết kế.
+    Adobe Photoshop – Đồ họa Bitmap (Ps):
+        Phương pháp sửa ảnh
+        Ghép ảnh
+        Tô màu tranh ảnh
+        Thiết kế quảng cáo, thiết kế web
+    Adobe Indesign – Id:
+        Sách (book), tạp chí (magazine).
+        Biểu mẫu.
+        Brochure, Catalog.
+        Newsletter.
+        Presentation.
+    Adobe illustrator - Ai:
+        Minh họa sách báo.
+        Thiết kế Logo.
+        Tạo các sản phẩm tờ rơi, brochure, profile.
+        Vẽ hoạt hình.
+        Tích hợp chuyển động cho Flash.

@@ -1,0 +1,108 @@
+KHÓA HỌC STEAM GỒM 4 KHÓA HỌC
+    1/ KHÓA HỌC LẬP TRÌNH WEB
+    2/ KHÓA HỌC PHÁT TRIỂN TƯ DUY VỚI PYTHON
+    3/ KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH ARDUINO - SCRATCH
+
+MỤC TIÊU CÁC KHÓA HỌC STEAM
+    :hướng tới lứa tuổi học sinh cấp 3 muốn tiếp xúc và làm quen với lập trình, rèn luyện tư duy lập trình từ sớm
+
+1/ KHÓA HỌC LẬP TRÌNH WEB
+Nội dung chương trình KHÓA HỌC LẬP TRÌNH WEB:
+    chương trình KHÓA HỌC STEAM  được chia thành 4 chặng (4 Stage).
+    STAGE 1: KHỞI ĐỘNG (STARTING):
+    Thiết kế các trang web tĩnh với các thành phần HTML5. Xử lý và định dạng cơ bản các nội dung trên trang web.
+    Sử dụng CSS3 để định dạng màu sắc, kiểu thể hiện, nền, bố cục, canh lề, ...cho các trang web, giúp tăng tính hấp dẫn, thu hút và chuyên nghiệp cho trang web.
+    Sử dụng các bảng kiểu xếp chồng để định dạng nâng cao, tăng khả năng định dạng cho trang web, giúp trang web chuyên nghiệp hơn.
+    STAGE 2: CHẠY (RUNNING):
+    Xử lý trang web với ngôn ngữ lập trìnhJavascript.
+    STAGE 3: TĂNG TỐC (ACCELERATING)
+    Lập trình web với PHP cơ bản, sử dụng thư viện Bootstrap.
+    Lập trình với thư viên jQuery.
+    Thiết kế trang web tương thích đa thiết bị.
+    STAGE 4: CẤT CÁNH (FLYING):
+    Lập trình web nâng cao.
+    Tương tác cơ sở dữ liệu với PHP.
+
+2/ KHÓA HỌC PHÁT TRIỂN TƯ DUY VỚI PYTHON
+MỤC TIÊU KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH PYTHON:
+    Khóa học trang bị kiến thức tổng hợp về tư duy toán và lập trình cho học sinh, mối liên hệ giữa việc mô hình hóa các bài toán thành các giải thuật phần mềm.
+    Việc tiếp nhận các ngôn ngữ lập trình từ sớm giúp học sinh khai phá tư duy khoa học đa chiều, tập giải các bài toán thực tế ở góc nhìn của máy tính.
+    Python cũng là ngôn ngữ lập trình được Bộ Giáo dục và Đào tạo đưa vào ngôn ngữ ưu tiên trong các cuộc thi tin học trẻ, đây cũng là ngôn ngữ dẫn đầu trong nhóm các công cụ trí tuệ nhân tạo.
+    Khóa học STEAM hướng đến xây dựng nền tảng vững chắc trong việc đào tạo nguồn nhân lực chất lượng cao cho công cuộc chuyển đổi số đang diễn ra mạnh mẽ tại Việt Nam và trên toàn cầu, qua đó tạo ra đội ngũ lao động có năng lực hội nhập quốc tế. 
+NỘI DUNG CHƯƠNG TRÌNH KHÓA HỌC PHÁT TRIỂN TƯ DUY VỚI PYTHON: Chương trình được chia thành 04 CHẶNG (STAGE):
+    STAGE 1: KHỞI ĐỘNG (STARTING):
+        Tìm hiểu môi trường và ngôn ngữ Python.
+        Chương trình nhập xuất đơn giảnvới Python.
+        Làm việc với con số và ký tự, làmquen với chương trình mã hóa đơn giản.
+        Tạo cảm hứng bằng đồ họa trong Python.
+        Làm quen với khái niệm giải thuật (Algorithm)
+        Kiểu dữ liệu và ý nghĩa của kiểu dữ liệu.
+        Làm quen với câu lệnh điều kiện và vòng lặp.
+        Làm quen với khái niệm dãy số.
+        Tìm kiếm và sắp xếp dữ liệutrong Python.
+        Dữ liệu, xử lý dữ liệu và thông tin.
+        Các kiểu dữ liệu nâng cao.
+        Bước đầu xử lý dữ liệu trên nhiều định dạng.
+        Cách xử lý câu lệnh vòng lặp nâng cao.
+        Khái niệm về đường dẫn (path).
+        Giải thuật trong phân tích dữ liệu.
+        Trình bày dữ liệu cơ bản.
+        Giải thuật đệ quy.
+    STAGE 2: CHẠY (RUNNING):
+        Làm quen các dạng tập tin ảnh và âm thanh.
+        Khái niệm về phần mềm đồ họa.
+        Khái niệm về phần mềm và ứng dụng.
+        Phát triển Game với thư viện PyGame.
+        Thư viện Tkinter.
+        Các thành phần chính trong giao diện đồ họa.
+        Bố cục giao diện ứng dụng đồ họa.
+        Phát triển ứng dụng có giao diện đồ họa.
+    STAGE 3: TĂNG TỐC (ACCELERATING):
+        Khái niệm về Hàm số.
+        Tạo hàm trong Python.
+        Khái niệm về thư viện. Các thư viện cơ bản.
+        Đồ thị trong Python.
+        Màu sắc và cách mã hóa màu sắc trên máy tính.
+        Khái niệm về ma trận và ứng dụng của ma trận trong thực tế.
+        Khái niệm về lớp và đối tượng.
+        Kế thừa và Tính đa hình.
+        Lớp trừu tượng và Interface.
+        Thao tác với hệ quản trị cơ sở dữ liệu MySQL trong Python.
+        Làm quen với thao tác phân tích dữ liệu.
+        Xử lý file Excel trên nền tảng Python.
+    STAGE 4: CẤT CÁNH (FLYING):
+        Căn bản về HTML5/CSS3.
+        Web tĩnh và Web động.
+        Ứng dụng Python trên nền web.
+        Hệ thống các thư viện phổ biến trên Python.
+        Khái niệm về trí tuệ nhân tạo.
+        Trí tuệ nhân tạo đơn giản.
+
+3/ KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH ARDUINO - SCRATCH:
+MỤC TIÊU KHÓA HỌC KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH ARDUINO - SCRATCH:
+    Scratch là một phần mềm giúp triển khai hệ thống STEAM – hình thức giáo dục giúp trang bị cho người học những kiến thức và kỹ năng cần thiết trong khoa học, công nghệ, kỹ thuật – trong các trường học một cách đơn giản và hiệu quả.
+    Scratch giúp học sinh phát triển tư duy sáng tạo để tạo ra các ứng dụng thực tế. Ngoài ra Scratch còn hỗ trợ cho giáo viên trong việc tạo ra các ví dụ minh họa cho học sinh trong tiết học giúp trực quan hóa bài giảng.
+    Khóa học cung cấp những kiến thức cơ bản về hệ thống IoT, lập trình nhúng, board mạch Arduino và những ứng dụng của Arduino trong thực tế hiện nay.
+    Ngoài ra khóa học, còn cung cấp cho học viên những nguyên lý trong việc thiết kế, lắp đặt và lập trình các module điện tử thông qua Arduino nhằm tạo ra những sản phẩm có tính thực tế cao.
+NỘI DUNG CHƯƠNG TRÌNH KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH ARDUINO - SCRATCH: Chương trình được chia thành 01 CHẶNG (STAGE):
+    STAGE 1:
+        Giới thiệu cơ bản về Arduino.
+        Cài đặt môi trường Scracth – Arduino.
+        Lập trình cơ bản với Scratch.
+        Làm quen với Arduino và các cảm biến.
+        Cách lắp mạch Arduino với các thiết bị cảm biến.
+        Kiểu dữ liệu và ý nghĩa của kiểu dữ liệu.
+        Làm quen với câu lệnh điều kiện và vòng lặp.
+        Dự án Scratch về điều khiển đèn led (chạy quảng cáo, led giao thông). Hệ thống theo dõi và điều khiển môi trường tự động.
+        Lập trình cơ bản Arduino.
+        Sử dụng các kiểu dữ liệu, các biến, các lệnh điều kiện, vòng lặp.
+        Điều khiển đèn Led và các cảm biến.
+        Gửi và nhận dữ liệu qua cổng Serial.
+        Giao tiếp với màn hình LCD, Servo Motor.
+        Dự án, ứng dụng thực tế.
+
+
+
+
+
+	

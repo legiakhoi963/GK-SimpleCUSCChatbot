@@ -1,0 +1,34 @@
+DANH SÁCH GIẢNG VIÊN CỦA CUSC
+
+GIẢNG VIÊN CỦA NGÀNH LẬP TRÌNH VIÊN QUỐC TẾ (APTECH):
+Giảng viên Lê Hoàng Thảo,
+Giảng viên Trương Xuân Việt,
+Giảng viên Nguyễn Hoàng Việt,
+Giảng viên Lê Thị Minh Loan,
+Giảng viên Cù Vĩnh Lộc,
+Giảng viên Nguyễn Võ Thông Thái,
+Giảng viên Trần Hoàng Việt,
+Giảng viên Văn Thị Xuân Hồng,
+Giảng viên Ông Thị Mỹ Linh,
+Giảng viên Lưu Tiến Đạo.
+
+GIẢNG VIÊN CỦA NGÀNH MỸ THUẬT ĐA PHƯƠNG TIỆN QUỐC TẾ (ARENA):
+Giảng viên Nguyễn Việt Nga,
+Giảng viên Nguyễn Hồng Sơn,
+Giảng viên Nguyễn Trung Kiên,
+Giảng viên Võ Duy Anh,
+Giảng viên Trương Xuân Việt.
+
+GIẢNG VIÊN CỦA STEAM:
+Giảng viên Võ Duy Anh,
+Giảng viên Nguyễn Trung Kiên,
+Giảng viên Nguyễn Hồng Sơn,
+Giảng viên Nguyễn Việt Nga,
+Giảng viên Trần Hoàng Việt,
+Giảng viên Lê Thị Minh Loan,
+Giảng viên Ông Thị Mỹ Linh,
+Giảng viên Lê Thị Diễm Kiều,
+Giảng viên Nguyễn Hoàng Việt,
+Giảng viên Lê Hoàng Thảo,
+Giảng viên Trương Xuân Việt,
+Giảng viên Cù Vĩnh Lộc.

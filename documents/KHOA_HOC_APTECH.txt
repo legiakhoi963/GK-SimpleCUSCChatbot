@@ -1,0 +1,75 @@
+KHÓA HỌC CỦA APTECH - LẬP TRÌNH VIÊN QUỐC TẾ CỦA CUSC 
+
+MỤC TIÊU CÁC KHÓA HỌC CỦA APTECH - LẬP TRÌNH VIÊN QUỐC TẾ CỦA CUSC:
+    Đào tạo chuyên sâu học viên về lập trình web, phát triển phần mềm theo quy chuẩn lập trình viên quốc tế.
+
+Ngày khai giảng KHÓA HỌC APTECH 28/05/2024.
+Giờ học thứ 3, 5, 7 từ 18h-21h.
+Thời gian đăng ký KHÓA HỌC APTECH: 11/01/2023-28/05/2024.
+
+Chương trình đào tạo của khóa học Aptech: gồm 4 học kỳ
+    Học kỳ 1 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG WEB TƯƠNG THÍCH ĐA THIẾT BỊ
+    Môn học của học kỳ 1: 
+        Logic Building and Elementary Programming.
+        Building Modern Websites.
+        UI/UX for Responsive Web Design.
+        Data Management with SQL Server.
+        Frontend Web Development with React.
+        PHP Development with Laravel Framework.
+        eProject Responsive Web Development.
+    Mục tiêu của học kỳ 1:
+        Phát triển tư duy lập trình với ngôn ngữ lập trình C.
+        Xây dựng giao diện Website hiện đại, sử dụng UI/UX để lập trình Web tương tác trải nghiệm người dùng và các ứng dụng tương tác đa thiết bị.
+        Thiết kế & lập trình cơ sở dữ liệu với Microsoft SQL Server.
+        Phát triển Website chạy trên tất cả trình duyệt Web & mọi thiết bị (Smartphone, Tablet, Mac,...) với React.
+        Xây dựng Website và phát triển các chức năng hiện đại với ngôn ngữ lập trình PHP và dễ quản lý với Laravel.
+        Đồ án cuối kỳ (Xây dựng website), tổng hợp kiến thức, rèn luyện tinh thần làm việc nhóm, thuyết trình.
+    Học kỳ 2 của khóa học Aptech: LẬP TRÌNH ỨNG DỤNG WINDOWS.
+    Môn học của học kỳ 2:
+        Data Processing with XML and JSON.
+        Java Programming-I.
+        Java Programming-II.
+        Programming in C#.
+        Project -Java Application Development.
+    Mục tiêu của học kỳ 2:
+        Sử dụng ngôn ngữ XML & JSON để lưu trữ và trao đổi dữ liệu.
+        Phát triển ứng dụng Java phần I.
+        Phát triển ứng dụng Java phần II, phát triển phần mềm hướng đối tượng bằng Java, sử dụng code từ Oracle và các tài liệu mã nguồn để viết code chuyên nghiệp.
+        Phát triển các ứng dụng hướng đối tượng từ cơ bản đến nâng cao bằng ngôn ngữ lập trình C#.
+        Kỹ năng nghề nghiệp lập trình
+        Đồ án cuối kỳ (Java), xây dựng kỹ năng làm việc nhóm chuyên nghiệp, tác phong vững vàng, thiết kế Web tương tác.
+    Học kỳ 3 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN ĐIỆN TOÁN ĐÁM MÂY.
+    Môn học của học kỳ 3: 
+        Essentials of NodeJS.
+        Large Data Management (MongoDB).
+        Developing Applications with Python.
+        Developing ASP.NET Core MVC Applications.
+        Developing Microsoft Azure Solutions.
+        Emerging Job Areas-SMAC.
+        eProject -.NET Web Application Development.
+    Mục tiêu của học kỳ 3: 
+        Lập trình, kiểm tra và triển khai các ứng dụng web với NodeJS.
+        Xây dựng website ASP.NET/MVC.NET sử dụng .NET Framework.
+        Xây dựng ứng dụng Website chuyên nghiệp dành cho doanh nghiệp vừa và lớn với ASP.NET Core MVC.
+        Thiết kế và lập trình các ứng dụng doanh nghiệp có khả năng tương tác, kết hợp nhiều dịch vụ bao gồm máy chủ tại chỗ và Windows Azure.
+        Lập trình Python.
+        Thực hiện đồ án phát triển phần mềm, website bằng công nghệ .Net.
+    Học kỳ 4 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN CÔNG NGHỆ JAVA EE.
+    Môn học của học kỳ 4:
+        Introduction to Dart Programming.
+        Application Development Using Flutter and Dart.
+        Web Component Development using Jakarta EE.
+        Building Java Web Applications with Spring Framework.
+        Enterprise Application Development in Jakarta EE.
+        Creating Services for the Web.
+        Project-Java Enterprise Application Development.
+        Internship.
+    Mục tiêu Học kỳ 4: 
+        Sử dụng ngôn ngữ Java lập trình ứng dụng Website chuyên nghiệp.
+        Phát triển các ứng dụng web nâng cao với Spring framework.
+        Thiết kế ứng dụng cho markup Language trong Jakarta Java EE.
+        Phát triển dịch vụ Web (WebServices).
+        Lập trình di động đa nền với Dart và Flutter hiệu quả và nhanh.
+        Dự án lập trình.
+        Đồ án cuối kỳ với Java.
+        Thực tập tại các Công ty Lập trình hoặc CUSCSoftware nâng cao kỹ năng, tạo lợi thế cạnh tranh và việc làm sau khi tốt nghiệp.

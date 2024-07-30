@@ -1,0 +1,36 @@
+KHÓA HỌC CỦA ARENA - MỸ THUẬT ĐA PHƯƠNG TIỆN
+
+MỤC TIÊU CÁC KHÓA HỌC ARENA: 
+    Đào tạo toàn diện, bao quát các lĩnh vực của Mỹ thuật Đa phương tiện, phục vụ cho ngành công nghiệp sáng tạo và giải trí.
+    Với chương trình học mang tầm quốc tế, sinh viên có thể phát triển toàn diện Portfolio thông qua các dự án thực tế, mở ra các cơ hội nghề nghiệp hấp dẫn.
+    Xây dựng hành trang vững vàng với lộ trình 2 năm tại CUSC ARENA tốt nghiệp bằng ADIM (ADVANCED DIPLOMA IN MULTIMEDIA) do Tập đoàn CNTT Aptech Ấn Độ cấp.
+
+Chương trình đào tạo KHÓA HỌC ARENA- MỸ THUẬT ĐA PHƯƠNG TIỆN: gồm 4 học kỳ
+    Học kỳ 1: graphic design
+        Hiểu các khái niệm cơ bản về đồ họa và minh họa.
+        Nghệ thuật chữ (typography).
+        Minh họa với adobe Illustrator.
+        Xử lý ảnh với adobe photoshop.
+        Nhiếp ảnh kỹ thuật số và xử lý hậu kỳ với Lightroom.
+        Thiết kế cho in ấn và quảng cáo.
+    Học kỳ 2: web & digital design.
+        Thiết kế web ấn tượng với Dreamweaver CC.
+        Làm sinh động web với JavaScript.
+        Tạo hoạt hình 2D cho web.
+        Tạo giao diện tương tác cao cho người dùng.
+        Tạo khung wireframe, các prototype và thiết kế màn hình cho các sản phẩm kỹ thuật số.
+    Học kỳ 3: Film Making & Game Design
+        Khái niệm quy trình sản xuất phim kỹ thuật số.
+        Tầm quan trọng của Storyboard.
+        Biên tập hình ảnh và âm thanh.
+        Dựng mô hình game 3D với 3Ds Max.
+        Tạo chất liệu (texture) cho mô hình 3D trong game 3D
+        Thiết kế màn chơi với Unity 3D
+    Học kỳ 4: 3D Animation
+        Hiểu quy trình tiền sản xuất của phim hoạt hình.
+        Dựng mô hình nhân vật hoạt họa 3D với Maya
+        Tạo chất liệu cho mô hình 3D với Substance Painter.
+        Chiếu sáng nhân vật và môi trường.
+        Tạo chuyển động cho nhân vật.
+        Kết xuất hình ảnh chất lượng với Arnold Renderer trong Maya.
+        Sử dụng Black Magic Fusion biên tập hình ảnh nâng cao.
